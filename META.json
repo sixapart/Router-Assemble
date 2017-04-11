@@ -1,0 +1,68 @@
+{
+   "abstract" : "Fast, serializable and weight adjustable routing engine for web applications",
+   "author" : [
+      "Taku AMANO <usualoma@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Minilla/v3.0.10, CPAN::Meta::Converter version 2.143240",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Router-Assemble",
+   "no_index" : {
+      "directory" : [
+         "t",
+         "xt",
+         "inc",
+         "share",
+         "eg",
+         "examples",
+         "author",
+         "builder"
+      ]
+   },
+   "prereqs" : {
+      "configure" : {
+         "requires" : {
+            "Module::Build::Tiny" : "0.035"
+         }
+      },
+      "develop" : {
+         "requires" : {
+            "Test::CPAN::Meta" : "0",
+            "Test::MinimumVersion::Fast" : "0.04",
+            "Test::PAUSE::Permissions" : "0.04"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "List::Util" : "0",
+            "Regexp::Assemble" : "0.35",
+            "perl" : "5.010001"
+         }
+      },
+      "test" : {
+         "requires" : {
+            "Test::More" : "0.98"
+         }
+      }
+   },
+   "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/sixapart/Router-Assemble/issues"
+      },
+      "homepage" : "https://github.com/sixapart/Router-Assemble",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/sixapart/Router-Assemble.git",
+         "web" : "https://github.com/sixapart/Router-Assemble"
+      }
+   },
+   "version" : "1.00",
+   "x_authority" : "cpan:SIXAPART"
+}
