@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/sixapart/Router-Assemble.svg?branch=master)](https://travis-ci.org/sixapart/Router-Assemble)
+[![Build Status](https://travis-ci.org/sixapart/Router-Assemble.svg?branch=master)](https://travis-ci.org/sixapart/Router-Assemble) [![Coverage Status](https://coveralls.io/repos/github/sixapart/Router-Assemble/badge.svg?branch=master)](https://coveralls.io/github/sixapart/Router-Assemble?branch=master)
 
 # NAME
 
