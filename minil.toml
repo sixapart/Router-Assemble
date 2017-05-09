@@ -1,4 +1,4 @@
 name = "Router-Assemble"
-badges = ["travis"]
+badges = ['travis', 'coveralls']
 authority="cpan:SIXAPART"
 module_maker="ModuleBuildTiny"
