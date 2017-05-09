@@ -24,7 +24,7 @@ Router::Assemble is yet another routing engine for web applications. This module
 
 ## Fast
 
-This module is prity fast, almost as fast as [Router::Boom](https://metacpan.org/pod/Router::Boom).
+This module is pretty fast, almost as fast as [Router::Boom](https://metacpan.org/pod/Router::Boom).
 
                          Rate Router::Assemble     Router::Boom
     Router::Assemble 220553/s               --              -0%
@@ -69,7 +69,7 @@ By using _route\_cmp_, we can adjust routing order.
 
     $router->match('/blog') # blog_main
 
-## Copatibility with [Router::Boom](https://metacpan.org/pod/Router::Boom)
+## Compatibility with [Router::Boom](https://metacpan.org/pod/Router::Boom)
 
 [Router::Assemble](https://metacpan.org/pod/Router::Assemble) is compatible with [Router::Boom](https://metacpan.org/pod/Router::Boom) about basic API.
 
