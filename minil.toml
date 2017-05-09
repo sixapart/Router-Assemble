@@ -2,3 +2,6 @@ name = "Router-Assemble"
 badges = ['travis', 'coveralls']
 authority="cpan:SIXAPART"
 module_maker="ModuleBuildTiny"
+
+[ReleaseTest]
+MinimumVersion = 5.010001
