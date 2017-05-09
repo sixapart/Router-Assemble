@@ -139,6 +139,6 @@ Taku AMANO <usualoma@cpan.org>
 
 # SEE ALSO
 
-[Router::Boom](https://metacpan.org/pod/Router::Boom) Prity fast routing engine for web applications.
+[Router::Boom](https://metacpan.org/pod/Router::Boom) Pretty fast routing engine for web applications.
 
 [Regexp::Assemble](https://metacpan.org/pod/Regexp::Assemble) Assemble multiple Regular Expressions into a single RE.

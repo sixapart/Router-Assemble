@@ -69,7 +69,7 @@ Router::Assemble is yet another routing engine for web applications. This module
 
 =head2 Fast
 
-This module is prity fast, almost as fast as L<Router::Boom>.
+This module is pretty fast, almost as fast as L<Router::Boom>.
 
                          Rate Router::Assemble     Router::Boom
     Router::Assemble 220553/s               --              -0%
@@ -114,7 +114,7 @@ By using I<route_cmp>, we can adjust routing order.
 
     $router->match('/blog') # blog_main
 
-=head2 Copatibility with L<Router::Boom>
+=head2 Compatibility with L<Router::Boom>
 
 L<Router::Assemble> is compatible with L<Router::Boom> about basic API.
 
@@ -196,7 +196,7 @@ Taku AMANO E<lt>usualoma@cpan.orgE<gt>
 
 =head1 SEE ALSO
 
-L<Router::Boom> Prity fast routing engine for web applications.
+L<Router::Boom> Pretty fast routing engine for web applications.
 
 L<Regexp::Assemble> Assemble multiple Regular Expressions into a single RE.
 
